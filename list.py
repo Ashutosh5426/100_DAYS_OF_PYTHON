@@ -5,8 +5,8 @@ l = [11, 1, 45, 1, 2, 4, 6];
 # print(l);
 # print(l.index(45)); #Print the index of 45 in the list.
 # print(l.count(1)); #Count the occurrence of 1 in the list.
-# newList = l.copy(); #Create the copy of the list.
-# print(newList);
+# new_list = l.copy(); #Create the copy of the list.
+# print(new_list);
 # l.insert(3, 45); #Insert 45 at three index.
 # print(l);
 # m = [32,5,35];
